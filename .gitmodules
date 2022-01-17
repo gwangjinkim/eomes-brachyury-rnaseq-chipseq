@@ -1,0 +1,3 @@
+[submodule "rnaseqeasy"]
+	path = rnaseqeasy
+	url = https://github.com/gwangjinkim/rnaseqeasy.git
